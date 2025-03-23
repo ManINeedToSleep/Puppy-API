@@ -15,19 +15,26 @@ A fun, interactive web application for dog lovers to discover random cute dog im
 
 ## 🐾 Technologies Used
 
-- **Next.js 14**: React framework with App Router
+- **Next.js 15.1.7**: React framework with App Router
+- **React 19**: Latest version of React
+- **Node.js v22.13.1**: JavaScript runtime
 - **TypeScript**: For type-safe code
-- **TailwindCSS**: For styling and animations
+- **TailwindCSS 3.4.1**: For styling and animations
 - **Dog CEO API**: Source of dog images data (https://dog.ceo/dog-api/)
 - **Vercel**: Deployment and hosting
 
 ## 🐶 Getting Started
 
+### System Requirements
+
+- Node.js 18.17 or later
+- macOS, Windows, or Linux operating system
+
 First, clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/doge-house.git
-cd doge-house
+git clone https://github.com/yourusername/Puppy-API.git
+cd Puppy-API
 ```
 
 Install dependencies:
